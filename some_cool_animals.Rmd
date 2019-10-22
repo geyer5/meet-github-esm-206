@@ -14,9 +14,13 @@ The organization of this document probably seems strange. That's because it's pa
 
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
 
-### Cool animal fun facts {.tabset .tabset-fade}
+### Cool animal fun facts {.tabset .tabset-fade} 
+
+tabset creates different tabs! After this, if you create a fourth order heading, it will register that as the first tab...
 
 #### Great white sharks
+
+If you want to include the image even though it's in a diff folder use this syntax below...
 
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images ](img/great_white.jpg)
 
@@ -45,6 +49,13 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### Ringtail cats
+
+![Photo: Courtesy of VA Zoo](img/ringtail_cat.jpg)
+
+
+Tabset section ended when you go back to three hashtags again
 
 ###
 
