@@ -54,6 +54,11 @@ If you want to include the image even though it's in a diff folder use this synt
 
 ![Photo: Courtesy of VA Zoo](img/ringtail_cat.jpg)
 
+##### Ringtail cats fun facts: 
+
+- Can rotate their hind feet 180 degrees to climb better
+- They are not endangered, just very elusive
+- They are closely related to raccoons
 
 Tabset section ended when you go back to three hashtags again
 
